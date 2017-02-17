@@ -1,0 +1,22 @@
+{
+  "name": "cli-mail",
+  "version": "1.0.0",
+  "description": "a nodejs cli app fro sending mails",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.14.0",
+    "nodemailer": "^2.7.0",
+    "prompt": "^1.0.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "cli",
+    "mail"
+  ],
+  "author": "jerry enebeli",
+  "license": "ISC"
+}
