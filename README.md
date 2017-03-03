@@ -1,17 +1,14 @@
 # cli_mail
-a cli mail app created with nodejs for sending mails through the cli
+a cli mail app created with nodejs for sending mails through the cli ..
 
 
-#install nodejs 
+#install nodejs
 
-#at cli type in 
+#at cli type in
 $ npm install
 
 
-#cli type 
+#cli type
 $ node index.js
 
 #remeber to input your mail service and authenticate in index.js
-
-
-
