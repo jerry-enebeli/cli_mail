@@ -1,5 +1,5 @@
 var prompt = require('prompt')
-var express  = require('express');
+const express  = require('express');
 var morgan  = require('morgan');
 var nodemailer  = require('nodemailer');
  var colors = require("colors/safe");
